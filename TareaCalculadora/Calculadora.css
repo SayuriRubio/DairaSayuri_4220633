@@ -1,0 +1,39 @@
+
+.Calc {
+    border-radius: 9px;
+    width: 290px;
+    padding: 50px;
+    background-color: rgb(197, 192, 255);
+    box-shadow: 0 12px rgb(124, 172, 255);
+    justify-content: center;
+    display: inline-table;
+
+
+}
+
+input[type="text"] {
+    justify-content: right;
+    width: 290px;
+    height: 60px;
+    background-color: rgb(191, 213, 224);
+    color: rgb(71, 128, 207);
+    font-size: 50px;
+    text-align: right;
+    margin: 0px 0px 13px 0px;
+
+
+}
+
+input[type="button"] {
+    background-color: rgb(109, 168, 219);
+    color: rgb(13, 71, 126);
+    width: 50px;
+    margin: 4px;
+    border-radius: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    height: 42px;
+    box-shadow: 0 4px;
+    font-size: 20px;
+}
+
